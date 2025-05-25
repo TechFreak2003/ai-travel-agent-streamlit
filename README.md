@@ -3,6 +3,10 @@
 Your personalized AI-powered travel companion that recommends destinations, plans itineraries, and answers travel-related queries in real time.
 
 <p align="center">
+  <img src="https://github.com/TechFreak2003/ai-travel-agent-streamlit/blob/main/public/header_image.png" alt="AI Travel Agent Banner" />
+</p>
+
+<p align="center">
   <a href="https://github.com/TechFreak2003/ai-travel-agent-streamlit/issues"><img src="https://img.shields.io/github/issues/TechFreak2003/ai-travel-agent-streamlit"></a>
   <a href="https://github.com/TechFreak2003/ai-travel-agent-streamlit/stargazers"><img src="https://img.shields.io/github/stars/TechFreak2003/ai-travel-agent-streamlit"></a>
   <a href="https://github.com/TechFreak2003/ai-travel-agent-streamlit/blob/main/LICENSE">
